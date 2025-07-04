@@ -1,2 +1,3 @@
 # Renan
-Aprendendo a proramar
+Aprendendo a proramar.
+Tá ficando bom!
